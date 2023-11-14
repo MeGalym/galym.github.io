@@ -1,4 +1,4 @@
-EDUCATION
+###EDUCATION
 M.S. in Energy Systems	2021-2023
 University of California, Davis, Davis, CA, USA
 
